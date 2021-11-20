@@ -14,7 +14,6 @@ C:\Users\oibes\Desktop\LifeSpot\LifeSpot\obj\Debug\net5.0\LifeSpot.AssemblyInfo.
 C:\Users\oibes\Desktop\LifeSpot\LifeSpot\obj\Debug\net5.0\LifeSpot.csproj.CoreCompileInputs.cache
 C:\Users\oibes\Desktop\LifeSpot\LifeSpot\obj\Debug\net5.0\LifeSpot.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\oibes\Desktop\LifeSpot\LifeSpot\obj\Debug\net5.0\staticwebassets\LifeSpot.StaticWebAssets.Manifest.cache
-C:\Users\oibes\Desktop\LifeSpot\LifeSpot\obj\Debug\net5.0\staticwebassets\LifeSpot.StaticWebAssets.xml
 C:\Users\oibes\Desktop\LifeSpot\LifeSpot\obj\Debug\net5.0\scopedcss\bundle\LifeSpot.styles.css
 C:\Users\oibes\Desktop\LifeSpot\LifeSpot\obj\Debug\net5.0\LifeSpot.RazorTargetAssemblyInfo.cache
 C:\Users\oibes\Desktop\LifeSpot\LifeSpot\obj\Debug\net5.0\LifeSpot.dll
